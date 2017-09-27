@@ -1,0 +1,8 @@
+dersubj lê e mostra as informações do subject de um ou mais certificados digitais em formato DER.
+Uso: dersubj [ARQUIVO1] [ARQUIVO2] ... [ARQUIVOn]
+
+Dependências:
+libstdc++
+openssl
+
+makefile incluído para build com make.
